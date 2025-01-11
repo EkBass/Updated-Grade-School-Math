@@ -14,29 +14,6 @@ The original GSM8K dataset, released by OpenAI, provided an excellent foundation
 
 ---
 
-## Why Update GSM8K?
-
-1. **Enhancing Clarity and Reasoning**:  
-   Solutions now include a detailed, step-by-step breakdown of the reasoning process, ensuring that models trained on this dataset learn how to explain their answers in an accessible and transparent way.
-
-2. **Modern AI Standards**:  
-   Answers have been rewritten to match the conversational and logical tone expected from modern language models like GPT-4. This ensures the dataset is more aligned with the capabilities and demands of today’s AI systems.
-
-3. **Open Source Contribution**:  
-   This project breathes new life into the GSM8K dataset by making it more versatile for researchers, educators, and developers building cutting-edge models.
-
----
-
-## Dataset Details
-
-- **Questions**: The original questions remain untouched, preserving the high-quality, linguistically diverse grade school math problems created by human writers.
-- **Answers**: All solutions have been rewritten to:
-  - Follow a clear, structured format.
-  - Provide step-by-step reasoning for solving each problem.
-  - Use conversational and approachable language without unnecessary embellishments.
-
----
-
 ## Example Problem
 
 **Original Question**:
@@ -64,6 +41,28 @@ Let’s break down Natalia's clip sales step by step to find out how many she so
    
 Therefore, Natalia sold a total of **72 clips** in April and May combined!
 ```
+---
+
+## Why Update GSM8K?
+
+1. **Enhancing Clarity and Reasoning**:  
+   Solutions now include a detailed, step-by-step breakdown of the reasoning process, ensuring that models trained on this dataset learn how to explain their answers in an accessible and transparent way.
+
+2. **Modern AI Standards**:  
+   Answers have been rewritten to match the conversational and logical tone expected from modern language models like GPT-4. This ensures the dataset is more aligned with the capabilities and demands of today’s AI systems.
+
+3. **Open Source Contribution**:  
+   This project breathes new life into the GSM8K dataset by making it more versatile for researchers, educators, and developers building cutting-edge models.
+
+---
+
+## Dataset Details
+
+- **Questions**: The original questions remain untouched, preserving the high-quality, linguistically diverse grade school math problems created by human writers.
+- **Answers**: All solutions have been rewritten to:
+  - Follow a clear, structured format.
+  - Provide step-by-step reasoning for solving each problem.
+  - Use conversational and approachable language without unnecessary embellishments.
 
 ---
 
