@@ -29,16 +29,17 @@ Natalia sold 48+24 = 72 clips altogether in April and May.
 
 **Updated Answer**:
 ```
-Let’s break down Natalia's clip sales step by step to find out how many she sold in total over April and May.
+### NEW ANSWER:
+Let's break down Natalia's clip sales step by step to find out how many she sold in total over April and May.
 
 1. **April Sales**: In April, Natalia sold clips to 48 friends. This means she sold **48 clips**.
 
 2. **May Sales**: In May, she sold half as many clips as she did in April. To find out how many that is, we calculate:
-   \( \\frac{48}{2} = 24 \\) clips sold in May.
-   
+   \\( \\frac{48}{2} = 24 \\) clips sold in May.
+
 3. **Total Sales**: Now, to find out how many clips Natalia sold altogether in both months, we simply add her April and May sales:
-   \( 48 + 24 = 72 \\).
-   
+   \\( 48 + 24 = 72 \\).
+
 Therefore, Natalia sold a total of **72 clips** in April and May combined!
 ```
 ---
